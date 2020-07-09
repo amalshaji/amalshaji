@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![CNN](CNN.gif)
+![CNN](amalshaji/CNN.gif)
