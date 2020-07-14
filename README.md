@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![CNN](https://github.com/amalshaji/amalshaji/raw/master/CNN.gif)
+### My latest Project - STOYLE
+![CNN](https://github.com/amalshaji/amalshaji/raw/master/screenrec.gif)
