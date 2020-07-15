@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### My latest Project - STOYLE [stoyleapp](https://stoyle.herokuapp.com/)
-![STOYLE](https://github.com/amalshaji/amalshaji/raw/master/screenrec.gif)
+![STOYLE](https://github.com/amalshaji/amalshaji/raw/master/stoyle_1080.gif)
