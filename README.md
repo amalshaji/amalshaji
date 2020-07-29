@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 <center>
 <br><br>
 <h4>Tools I use</h4>
-  <a><img src="https://img.shields.io/badge/-Python-blue?&logo=python&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/-PyTorch-red?&logo=pytorch&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/-VSCode-%23007ACC?logo=visual-studio-code"></a>
-  <a><img src="https://img.shields.io/badge/-Docker-blue?&logo=docker&logoColor=white"></a>
-  <a><img src="https://raw.githubusercontent.com/amalshaji/amalshaji/master/-FastAPI-gray.svg"></a>
+  <a href=""><img src="https://img.shields.io/badge/-Python-blue?&logo=python&logoColor=white"></a>
+  <a href=""><img src="https://img.shields.io/badge/-PyTorch-red?&logo=pytorch&logoColor=white"></a>
+  <a href=""><img src="https://img.shields.io/badge/-VSCode-%23007ACC?logo=visual-studio-code"></a>
+  <a href=""><img src="https://img.shields.io/badge/-Docker-blue?&logo=docker&logoColor=white"></a>
+  <a href=""><img src="https://raw.githubusercontent.com/amalshaji/amalshaji/master/-FastAPI-gray.svg"></a>
     
 
 <br><br>
