@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-PyTorch-red?&logo=pytorch&logoColor=white">
     <img src="https://img.shields.io/badge/-VSCode-%23007ACC?logo=visual-studio-code">
     <img src="https://img.shields.io/badge/-Docker-blue?&logo=docker&logoColor=white">
-    <img src="https://raw.githubusercontent.com/amalshaji/amalshaji/-FastAPI-gray.svg">
+    <img src="https://raw.githubusercontent.com/amalshaji/amalshaji/master/-FastAPI-gray.svg">
     
 
 <br><br>
