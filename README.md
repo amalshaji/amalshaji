@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...-->
 - 😄 Pronouns: <b>| He | Him |</b>
 - ⚡ Fun fact: <b>| I am awesome |</b> 
+
+### Latest project: [https://stoyle.me](https://stoyle.me)
+#### Demo
+![https://stoyle.me](https://j.gifs.com/E8kRnY.gif)
+
 <p align="center">
 <a href="https://github.com/amalshaji">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=amalshaji&show_icons=true&include_all_commits=true&count_private=true" alt="Amal's github stats" />
