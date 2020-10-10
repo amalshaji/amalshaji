@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br><br>
 <a href="https://github.com/amalshaji">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amalshaji&layout=compact&count_private=true&hide=html,javascript&layout=compact" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amalshaji&layout=compact&count_private=true&hide=html,javascript,scss&layout=compact" />
 </a>
 <center>
 <br><br>
@@ -30,7 +30,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-VSCode-%23007ACC?logo=visual-studio-code">
     <img src="https://img.shields.io/badge/-Docker-blue?&logo=docker&logoColor=white">
     <img src="-FastAPI-gray.svg">
-    
+    <img src="https://img.shields.io/badge/-Golang-blue">
+</center> 
 
 <br><br>
 <h4>Internet Presence</h4>
