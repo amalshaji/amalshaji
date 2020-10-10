@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...-->
 - 😄 Pronouns: <b>| He | Him |</b>
 - ⚡ Fun fact: <b>| I am awesome |</b> 
+
 <p align="center">
 <a href="https://github.com/amalshaji">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=amalshaji&show_icons=true&include_all_commits=true&count_private=true" alt="Amal's github stats" />
@@ -20,8 +21,7 @@ Here are some ideas to get you started:
 <br><br>
 <a href="https://github.com/amalshaji">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amalshaji&layout=compact&count_private=true&hide=html,javascript,scss&layout=compact" />
-</a>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amalshaji&layout=compact&count_private=true&hide=html,javascript,scss,matlab&layout=compact" /></a>
 <center>
 <br><br>
 <h4>Tools I use</h4>
