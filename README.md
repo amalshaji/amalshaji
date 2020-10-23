@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...-->
 - 😄 Pronouns: <b>| He | Him |</b>
 - ⚡ Fun fact: <b>| I am awesome |</b> 
+- 📚 Blog : <b>https://amalshaji.github.io</b>
+- 📖 Blog : <b>https://amalshaji.wtf</b>
+- 📚 Other Articles : <b>https://testdriven.io/authors/shaji</b>
 
 <p align="center">
 <a href="https://github.com/amalshaji">
@@ -21,16 +24,18 @@ Here are some ideas to get you started:
 <br><br>
 <a href="https://github.com/amalshaji">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amalshaji&layout=compact&count_private=true&hide=html,javascript,scss,matlab&layout=compact" /></a>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amalshaji&layout=compact&count_private=true&hide=html,javascript,scss,css,matlab&layout=compact" /></a>
 <center>
 <br><br>
 <h4>Tools I use</h4>
-    <img src="https://img.shields.io/badge/-Python-blue?&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/-PyTorch-red?&logo=pytorch&logoColor=white">
-    <img src="https://img.shields.io/badge/-VSCode-%23007ACC?logo=visual-studio-code">
-    <img src="https://img.shields.io/badge/-Docker-blue?&logo=docker&logoColor=white">
-    <img src="-FastAPI-gray.svg">
-    <img src="https://img.shields.io/badge/-Golang-blue">
+    <div style="display-inline">
+      <img src="https://img.shields.io/badge/-Python-blue?&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/-PyTorch-red?&logo=pytorch&logoColor=white">
+      <img src="https://img.shields.io/badge/-VSCode-%23007ACC?logo=visual-studio-code">
+      <img src="https://img.shields.io/badge/-Docker-blue?&logo=docker&logoColor=white">
+      <img src="-FastAPI-gray.svg">
+      <img src="https://img.shields.io/badge/-Golang-blue">
+    </div>
 </center> 
 
 <br><br>
