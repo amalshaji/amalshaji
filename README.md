@@ -19,7 +19,7 @@
 
 - 📝 I regulary write articles on [https://amalshaji.com](https://amalshaji.com)
 
-- I also write for [testdriven.io](https://testdriven.io/authors/shaji)
+- 📝 I also write for [testdriven.io](https://testdriven.io/authors/shaji)
 
 - 📫 How to reach me **amalshajid@gmail.com**
 
