@@ -1,52 +1,45 @@
-### Hi there, I am Amal Shaji👋
+<h1 align="center">Hi 👋, I'm Amal</h1>
+<h3 align="center">Learning to Learn</h3>
 
-<!--
-**amalshaji/amalshaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on <b>| Open Source [github](https://github.com/amalshaji) |</b>
-- 🌱 I’m currently learning <b>| Python | Golang |</b>
-- 👯 I’m looking to collaborate on <b>| anything interesting |</b>
-<!--- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...-->
-- 😄 Pronouns: <b>| He | Him |</b>
-- ⚡ Fun fact: <b>| I am awesome |</b> 
-- 📚 Blog : <b>https://amalshaji.github.io</b>
-- 📖 Blog : <b>https://amalshaji.wtf</b>
-- 📚 Other Articles : <b>https://testdriven.io/authors/shaji</b>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=amalshaji&label=Profile%20views&color=0e75b6&style=flat" alt="amalshaji" /> </p>
 
+<br>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amalshaji" alt="amalshaji" /></a> </p>
+
+<br>
+
+<p align="center"> <a href="https://twitter.com/pydantic" target="blank"><img src="https://img.shields.io/twitter/follow/pydantic?logo=twitter&style=for-the-badge" alt="pydantic" /></a> </p>
+
+<br>
+
+- 👨‍💻 All of my projects are available at [https://amalshaji.com/about](https://amalshaji.com/about)
+
+- 📝 I regulary write articles on [https://amalshaji.com](https://amalshaji.com)
+
+- I also write for [testdriven.io](https://testdriven.io/authors/shaji)
+
+- 📫 How to reach me **amalshajid@gmail.com**
+
+<br>
+
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://github.com/amalshaji">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=amalshaji&show_icons=true&include_all_commits=true&count_private=true" alt="Amal's github stats" />
-</a>
-<br><br>
-<a href="https://github.com/amalshaji">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amalshaji&layout=compact&count_private=true&hide=html,javascript,scss,css,matlab&layout=compact" /></a>
-<center>
-<br><br>
-<h4>Tools I use</h4>
-    <div style="display-inline">
-      <img src="https://img.shields.io/badge/-Python-blue?&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/-PyTorch-red?&logo=pytorch&logoColor=white">
-      <img src="https://img.shields.io/badge/-VSCode-%23007ACC?logo=visual-studio-code">
-      <img src="https://img.shields.io/badge/-Docker-blue?&logo=docker&logoColor=white">
-      <img src="-FastAPI-gray.svg">
-      <img src="https://img.shields.io/badge/-Golang-blue">
-    </div>
-</center> 
+<a href="https://dev.to/amalshaji" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="amalshaji" height="30" width="40" /></a>
+<a href="https://twitter.com/pydantic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pydantic" height="30" width="40" /></a>
+</p>
+
+<br>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> </p>
 
 <br><br>
-<h4>Internet Presence</h4>
-<a href="https://github.com/amalshaji">
-    <img src="https://img.shields.io/badge/-@amalshaji-181717?&logo=GitHub&logoColor=white">
-</a>
-<a href="https://twitter.com/pydantic">
-    <img src="https://img.shields.io/badge/-@pydantic-%231DA1F2?logo=twitter&logoColor=white">
-</a>
-<a href="https://t.me/pydantic">
-    <img src="https://img.shields.io/badge/-@pydantic-0088CC?&logo=Telegram&logoColor=white">
-</a>
-</p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amalshaji&show_icons=true&locale=en&layout=compact&hide=html,matlab,javascript&count_private=true" alt="amalshaji" /></p>
+
+<br><br>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amalshaji&show_icons=true&locale=en" alt="amalshaji" /></p>
