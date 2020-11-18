@@ -1,23 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amal</h1>
 <h3 align="center">Learning to Learn</h3>
 
-<br>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=amalshaji&label=Profile%20views&color=0e75b6&style=flat" alt="amalshaji" /> </p>
-
-<br>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amalshaji" alt="amalshaji" /></a> </p>
-
-<br>
-
-<p align="center"> <a href="https://twitter.com/pydantic" target="blank"><img src="https://img.shields.io/twitter/follow/pydantic?logo=twitter&style=for-the-badge" alt="pydantic" /></a> </p>
-
-<br>
-
-- 👨‍💻 All of my projects are available at [https://amalshaji.com/about](https://amalshaji.com/about)
-
-- 📝 I regulary write articles on [https://amalshaji.com](https://amalshaji.com)
+- 📝 Read what I write [https://amalshaji.com](https://amalshaji.com)
 
 - 📝 I also write for [testdriven.io](https://testdriven.io/authors/shaji)
 
@@ -38,7 +22,7 @@
 
 <br><br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amalshaji&show_icons=true&locale=en&layout=compact&hide=html,matlab,javascript&count_private=true" alt="amalshaji" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amalshaji&show_icons=true&locale=en&layout=compact&hide=html,matlab,javascript,scss&count_private=true" alt="amalshaji" /></p>
 
 <br><br>
 
