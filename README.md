@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amal</h1>
 <h3 align="center">Exploring Python, Go, Rust and Svelte. Also currently building Phoney.ml</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amalshaji" alt="amalshaji" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/pydantic" target="blank"><img src="https://img.shields.io/twitter/follow/pydantic?logo=twitter&style=for-the-badge" alt="pydantic" /></a> </p>
+<p align="center"> <a href="https://twitter.com/pydantic" target="blank"><img src="https://img.shields.io/twitter/follow/pydantic?logo=twitter&style=for-the-badge" alt="pydantic" /></a> </p>
 
 - 🔭 I’m currently working on [Phoney](https://phoney.ml)
 
