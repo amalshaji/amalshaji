@@ -1,10 +1,6 @@
 # Amal Shaji
 
-Building random stuff
-
-## I love working with
-- python
-- svelte
+Building random stuff with python, go and svelte
 
 ## Contact
 - [twitter/amal_ytics](https://twitter.com/amal_ytics)
