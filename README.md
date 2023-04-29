@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amal</h1>
-<h3 align="center">python, go and svelte developer</h3>
+<h3 align="center">I'm a software engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amalshaji" alt="amalshaji" /></a> </p>
 
