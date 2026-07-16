@@ -49,31 +49,31 @@
   <g class="mono" font-size="14">
     <text x="816" y="124" fill="#718092">01</text>
     <text x="856" y="124" fill="#111820" font-weight="700">PORTR</text>
-    <text x="1038" y="124" fill="#718092">TUNNELS</text>
+    <text x="1128" y="124" fill="#718092" text-anchor="end">TUNNELS</text>
     <path d="M816 138 H1128" stroke="#d2dbe3"/>
 
     <text x="816" y="158" fill="#718092">02</text>
     <text x="856" y="158" fill="#111820" font-weight="700">DBCOOPER</text>
-    <text x="1046" y="158" fill="#718092">DATA</text>
+    <text x="1128" y="158" fill="#718092" text-anchor="end">DATA</text>
     <path d="M816 172 H1128" stroke="#d2dbe3"/>
 
     <text x="816" y="192" fill="#718092">03</text>
     <text x="856" y="192" fill="#111820" font-weight="700">CAFE BLR</text>
-    <text x="1046" y="192" fill="#718092">PLACES</text>
+    <text x="1128" y="192" fill="#718092" text-anchor="end">PLACES</text>
     <path d="M816 206 H1128" stroke="#d2dbe3"/>
 
     <text x="816" y="226" fill="#718092">04</text>
     <text x="856" y="226" fill="#111820" font-weight="700">OPENDROP</text>
-    <text x="1038" y="226" fill="#718092">PREVIEWS</text>
+    <text x="1128" y="226" fill="#718092" text-anchor="end">PREVIEWS</text>
     <path d="M816 240 H1128" stroke="#d2dbe3"/>
 
     <text x="816" y="260" fill="#718092">05</text>
     <text x="856" y="260" fill="#111820" font-weight="700">DICTATOR</text>
-    <text x="1038" y="260" fill="#718092">VOICE</text>
+    <text x="1128" y="260" fill="#718092" text-anchor="end">VOICE</text>
     <path d="M816 274 H1128" stroke="#d2dbe3"/>
 
     <text x="816" y="294" fill="#718092">06</text>
     <text x="856" y="294" fill="#111820" font-weight="700">AGENT THREAD</text>
-    <text x="1058" y="294" fill="#718092">SESSIONS</text>
+    <text x="1128" y="294" fill="#718092" text-anchor="end">SESSIONS</text>
   </g>
 </svg>
