@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Amal Shaji — AI agents by day, developer tools after dark" width="100%">
+  <img src="./assets/profile-header.svg" alt="Amal Shaji — engineer building AI, open-source software, and developer tools" width="100%">
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <a href="https://github.com/amalshaji?tab=repositories">all repositories</a>
 </p>
 
-I work on **AI agents during the day**, then spend my nights shipping developer tools and small internet experiments. I like software that stays out of the way: native utilities, infrastructure you can self-host, and focused products with a clear reason to exist.
+I am an engineer who likes taking ideas from **zero to production**. I work across AI agents, open-source developer tools, native utilities, and small internet experiments—with a bias toward software that stays out of the way.
 
 Currently building from Bengaluru, India.
 
@@ -21,19 +21,19 @@ Currently building from Bengaluru, India.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://portr.dev">Portr</a> <sup><a href="https://github.com/amalshaji/portr">GitHub ↗</a></sup></h3>
+      <h3><a href="https://portr.dev">Portr</a></h3>
       <p>An open-source tunnel for teams. Expose local HTTP, TCP, and WebSocket services through SSH, then inspect and replay traffic locally.</p>
       <p><sub>GO · REACT · SSH · SELF-HOSTED</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://dbcooper.amal.sh">DBcooper</a> <sup><a href="https://github.com/amalshaji/dbcooper">GitHub ↗</a></sup></h3>
+      <h3><a href="https://dbcooper.amal.sh">DBcooper</a></h3>
       <p>A lightweight desktop database client for PostgreSQL, SQLite, Redis, and ClickHouse—with a native shell and AI-assisted SQL.</p>
       <p><sub>RUST · TAURI · REACT · TYPESCRIPT</sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://cafeblr.com">Cafe BLR</a> <sup><a href="https://github.com/amalshaji/cafeblr">GitHub ↗</a></sup></h3>
+      <h3><a href="https://cafeblr.com">Cafe BLR</a></h3>
       <p>A map-friendly directory of Bengaluru cafes discovered through posts people actually loved—the original recommendation stays attached as the receipt.</p>
       <p><sub>ASTRO · TYPESCRIPT · CLOUDFLARE · OPEN DATA</sub></p>
     </td>
@@ -50,26 +50,12 @@ Currently building from Bengaluru, India.
       <p><sub>SWIFT · SWIFTUI · APPLE SPEECH · MACOS</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://agent-thread.com">Agent Thread</a> <sup><a href="https://github.com/amalshaji/agent-thread">GitHub ↗</a></sup></h3>
+      <h3><a href="https://agent-thread.com">Agent Thread</a></h3>
       <p>Share and convert Claude Code and Codex sessions without turning useful agent work into an unreadable transcript dump.</p>
       <p><sub>TYPESCRIPT · CLAUDE CODE · CODEX</sub></p>
     </td>
   </tr>
 </table>
-
-## Latest from the workshop
-
-<sub>RECENT PUBLIC COMMITS · CAPTURED 16 JULY 2026</sub>
-
-| Date | Project | Shipped |
-|---|---|---|
-| 16 Jul | [`dictator`](https://github.com/amalshaji/dictator) | [`Prepare 0.5.0 release`](https://github.com/amalshaji/dictator/commit/1c5cab1842a77f164dccfb43fba95f1c913f1193) |
-| 13 Jul | [`cafeblr`](https://github.com/amalshaji/cafeblr) | [`Refresh verified tweet like counts`](https://github.com/amalshaji/cafeblr/commit/4fac162affa08cbfc4fb3f75b09d969e81827f01) |
-| 12 Jul | [`opendrop`](https://github.com/amalshaji/opendrop) | [`Release OpenDrop 0.3.0`](https://github.com/amalshaji/opendrop/commit/39b1d0be290fa9f35f9abbf6a2c1b27d0a0f0ab4) |
-| 11 Jul | [`dbcooper`](https://github.com/amalshaji/dbcooper) | [`Fix the macOS Dock icon and release v0.0.60`](https://github.com/amalshaji/dbcooper/commit/e363271e3d8e3f00bed6a6f10e8fe48f368df1aa) |
-| 10 Jul | [`portr`](https://github.com/amalshaji/portr) | [`Add reserved subdomain reservations`](https://github.com/amalshaji/portr/commit/9e93079a553d6c6dd587f2aa82d16f7f0552ad0c) |
-
-<p align="right"><a href="https://github.com/amalshaji?tab=overview&from=2026-07-01&to=2026-07-31">See the full contribution graph →</a></p>
 
 ## Say hello
 

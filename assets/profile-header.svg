@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
-  <title id="title">Amal Shaji</title>
-  <desc id="description">AI agents by day. Developer tools after dark.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">Amal Shaji — engineer and builder</title>
+  <desc id="description">Building AI, open-source software, and developer tools from zero to production in Bengaluru.</desc>
   <style>
     text {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
     }
 
     .mono {
@@ -11,37 +11,69 @@
     }
   </style>
 
-  <rect width="1200" height="320" rx="24" fill="#101c2c"/>
-  <rect x="1" y="1" width="1198" height="318" rx="23" fill="none" stroke="#31445d" stroke-width="2"/>
+  <rect width="1200" height="360" rx="24" fill="#d7e0e9"/>
+  <rect x="1" y="1" width="1198" height="358" rx="23" fill="none" stroke="#afbdca" stroke-width="2"/>
 
-  <circle cx="52" cy="44" r="5" fill="#ff9b73"/>
-  <text x="70" y="50" class="mono" fill="#9eb0c8" font-size="18">~/amal · bengaluru</text>
+  <path d="M0 64 H1200 M0 296 H1200 M760 0 V360" fill="none" stroke="#bcc8d3" stroke-width="1"/>
+  <path d="M48 24 V336 M728 24 V336" fill="none" stroke="#c5cfd8" stroke-width="1" stroke-dasharray="3 7"/>
 
-  <text x="48" y="128" fill="#f7f4ea" font-size="55" font-weight="750" letter-spacing="-2">AMAL SHAJI</text>
-  <text x="50" y="178" fill="#9eb0c8" font-size="27">AI agents by day.</text>
-  <text x="50" y="220" fill="#f7f4ea" font-size="31" font-weight="650">Developer tools <tspan fill="#ff9b73">after dark.</tspan></text>
+  <rect x="48" y="30" width="190" height="32" rx="16" fill="#111820"/>
+  <circle cx="69" cy="46" r="5" fill="#72f0a5"/>
+  <text x="84" y="51" class="mono" fill="#f8fafc" font-size="13" font-weight="700" letter-spacing="1">ENGINEER / BUILDER</text>
 
-  <path d="M52 267 H655" stroke="#31445d" stroke-width="2"/>
-  <circle cx="52" cy="267" r="6" fill="#8bd49c"/>
-  <circle cx="252" cy="267" r="6" fill="#6ccbff"/>
-  <circle cx="454" cy="267" r="6" fill="#ff9b73"/>
-  <text x="68" y="274" class="mono" fill="#9eb0c8" font-size="14" letter-spacing="1.2">OPEN SOURCE</text>
-  <text x="268" y="274" class="mono" fill="#9eb0c8" font-size="14" letter-spacing="1.2">NATIVE APPS</text>
-  <text x="470" y="274" class="mono" fill="#9eb0c8" font-size="14" letter-spacing="1.2">INFRASTRUCTURE</text>
+  <text x="48" y="143" fill="#111820" font-size="69" font-weight="800" letter-spacing="-3.5">AMAL SHAJI</text>
+  <text x="50" y="190" fill="#31404f" font-size="26" font-weight="500">Building from zero <tspan fill="#2563eb" font-weight="800">→</tspan> production.</text>
+  <text x="50" y="229" fill="#111820" font-size="24" font-weight="700">Open source, AI &amp; useful software.</text>
 
-  <rect x="715" y="40" width="437" height="240" rx="16" fill="#17263a" stroke="#31445d" stroke-width="2"/>
-  <circle cx="746" cy="70" r="5" fill="#ff9b73"/>
-  <circle cx="766" cy="70" r="5" fill="#31445d"/>
-  <circle cx="786" cy="70" r="5" fill="#31445d"/>
-  <path d="M716 96 H1151" stroke="#31445d" stroke-width="2"/>
+  <g class="mono" font-size="13" font-weight="700" letter-spacing=".7">
+    <rect x="48" y="259" width="119" height="28" rx="14" fill="#f5f8fb" stroke="#afbdca"/>
+    <text x="63" y="278" fill="#31404f">AI AGENTS</text>
+    <rect x="177" y="259" width="136" height="28" rx="14" fill="#f5f8fb" stroke="#afbdca"/>
+    <text x="192" y="278" fill="#31404f">OPEN SOURCE</text>
+    <rect x="323" y="259" width="123" height="28" rx="14" fill="#f5f8fb" stroke="#afbdca"/>
+    <text x="338" y="278" fill="#31404f">DEV TOOLS</text>
+    <rect x="456" y="259" width="137" height="28" rx="14" fill="#f5f8fb" stroke="#afbdca"/>
+    <text x="471" y="278" fill="#31404f">NATIVE APPS</text>
+  </g>
 
-  <text x="746" y="133" class="mono" fill="#8bd49c" font-size="18">$</text>
-  <text x="774" y="133" class="mono" fill="#f7f4ea" font-size="18">current_focus</text>
-  <text x="746" y="171" class="mono" fill="#6ccbff" font-size="17">01</text>
-  <text x="786" y="171" class="mono" fill="#9eb0c8" font-size="17">agent systems</text>
-  <text x="746" y="207" class="mono" fill="#6ccbff" font-size="17">02</text>
-  <text x="786" y="207" class="mono" fill="#9eb0c8" font-size="17">developer experience</text>
-  <text x="746" y="243" class="mono" fill="#6ccbff" font-size="17">03</text>
-  <text x="786" y="243" class="mono" fill="#9eb0c8" font-size="17">small useful software</text>
-  <rect x="1080" y="228" width="10" height="20" rx="2" fill="#ff9b73"/>
+  <circle cx="54" cy="326" r="4" fill="#2563eb"/>
+  <text x="68" y="331" class="mono" fill="#31404f" font-size="14">BENGALURU, INDIA</text>
+  <text x="249" y="331" class="mono" fill="#111820" font-size="14" font-weight="700">AMAL.SH</text>
+  <text x="338" y="331" class="mono" fill="#31404f" font-size="14">@AMAL_YTICS</text>
+
+  <rect x="792" y="32" width="360" height="296" rx="18" fill="#f5f8fb" stroke="#afbdca" stroke-width="2"/>
+  <rect x="812" y="52" width="320" height="44" rx="10" fill="#2563eb"/>
+  <text x="830" y="80" class="mono" fill="#ffffff" font-size="14" font-weight="700" letter-spacing="1.2">SELECTED WORK / 06</text>
+  <text x="1099" y="80" class="mono" fill="#bfdbfe" font-size="14">↗</text>
+
+  <g class="mono" font-size="14">
+    <text x="816" y="124" fill="#718092">01</text>
+    <text x="856" y="124" fill="#111820" font-weight="700">PORTR</text>
+    <text x="1038" y="124" fill="#718092">TUNNELS</text>
+    <path d="M816 138 H1128" stroke="#d2dbe3"/>
+
+    <text x="816" y="158" fill="#718092">02</text>
+    <text x="856" y="158" fill="#111820" font-weight="700">DBCOOPER</text>
+    <text x="1046" y="158" fill="#718092">DATA</text>
+    <path d="M816 172 H1128" stroke="#d2dbe3"/>
+
+    <text x="816" y="192" fill="#718092">03</text>
+    <text x="856" y="192" fill="#111820" font-weight="700">CAFE BLR</text>
+    <text x="1046" y="192" fill="#718092">PLACES</text>
+    <path d="M816 206 H1128" stroke="#d2dbe3"/>
+
+    <text x="816" y="226" fill="#718092">04</text>
+    <text x="856" y="226" fill="#111820" font-weight="700">OPENDROP</text>
+    <text x="1038" y="226" fill="#718092">PREVIEWS</text>
+    <path d="M816 240 H1128" stroke="#d2dbe3"/>
+
+    <text x="816" y="260" fill="#718092">05</text>
+    <text x="856" y="260" fill="#111820" font-weight="700">DICTATOR</text>
+    <text x="1038" y="260" fill="#718092">VOICE</text>
+    <path d="M816 274 H1128" stroke="#d2dbe3"/>
+
+    <text x="816" y="294" fill="#718092">06</text>
+    <text x="856" y="294" fill="#111820" font-weight="700">AGENT THREAD</text>
+    <text x="1058" y="294" fill="#718092">SESSIONS</text>
+  </g>
 </svg>
