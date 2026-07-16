@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+  <title id="title">Amal Shaji</title>
+  <desc id="description">AI agents by day. Developer tools after dark.</desc>
+  <style>
+    text {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    .mono {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+    }
+  </style>
+
+  <rect width="1200" height="320" rx="24" fill="#101c2c"/>
+  <rect x="1" y="1" width="1198" height="318" rx="23" fill="none" stroke="#31445d" stroke-width="2"/>
+
+  <circle cx="52" cy="44" r="5" fill="#ff9b73"/>
+  <text x="70" y="50" class="mono" fill="#9eb0c8" font-size="18">~/amal · bengaluru</text>
+
+  <text x="48" y="128" fill="#f7f4ea" font-size="55" font-weight="750" letter-spacing="-2">AMAL SHAJI</text>
+  <text x="50" y="178" fill="#9eb0c8" font-size="27">AI agents by day.</text>
+  <text x="50" y="220" fill="#f7f4ea" font-size="31" font-weight="650">Developer tools <tspan fill="#ff9b73">after dark.</tspan></text>
+
+  <path d="M52 267 H655" stroke="#31445d" stroke-width="2"/>
+  <circle cx="52" cy="267" r="6" fill="#8bd49c"/>
+  <circle cx="252" cy="267" r="6" fill="#6ccbff"/>
+  <circle cx="454" cy="267" r="6" fill="#ff9b73"/>
+  <text x="68" y="274" class="mono" fill="#9eb0c8" font-size="14" letter-spacing="1.2">OPEN SOURCE</text>
+  <text x="268" y="274" class="mono" fill="#9eb0c8" font-size="14" letter-spacing="1.2">NATIVE APPS</text>
+  <text x="470" y="274" class="mono" fill="#9eb0c8" font-size="14" letter-spacing="1.2">INFRASTRUCTURE</text>
+
+  <rect x="715" y="40" width="437" height="240" rx="16" fill="#17263a" stroke="#31445d" stroke-width="2"/>
+  <circle cx="746" cy="70" r="5" fill="#ff9b73"/>
+  <circle cx="766" cy="70" r="5" fill="#31445d"/>
+  <circle cx="786" cy="70" r="5" fill="#31445d"/>
+  <path d="M716 96 H1151" stroke="#31445d" stroke-width="2"/>
+
+  <text x="746" y="133" class="mono" fill="#8bd49c" font-size="18">$</text>
+  <text x="774" y="133" class="mono" fill="#f7f4ea" font-size="18">current_focus</text>
+  <text x="746" y="171" class="mono" fill="#6ccbff" font-size="17">01</text>
+  <text x="786" y="171" class="mono" fill="#9eb0c8" font-size="17">agent systems</text>
+  <text x="746" y="207" class="mono" fill="#6ccbff" font-size="17">02</text>
+  <text x="786" y="207" class="mono" fill="#9eb0c8" font-size="17">developer experience</text>
+  <text x="746" y="243" class="mono" fill="#6ccbff" font-size="17">03</text>
+  <text x="786" y="243" class="mono" fill="#9eb0c8" font-size="17">small useful software</text>
+  <rect x="1080" y="228" width="10" height="20" rx="2" fill="#ff9b73"/>
+</svg>
