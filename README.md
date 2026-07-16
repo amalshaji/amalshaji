@@ -21,21 +21,9 @@ Currently building from Bengaluru, India.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/amalshaji/dictator">Dictator</a></h3>
-      <p>A native macOS dictation app. Hold <code>Fn</code>, speak, and send polished text back to the app you were using—with on-device Apple Speech or your own cloud provider.</p>
-      <p><sub>SWIFT · SWIFTUI · APPLE SPEECH · MACOS</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/amalshaji/opendrop">OpenDrop</a></h3>
-      <p>Publish versioned static previews, share them privately or publicly, and collect point comments and text highlights in context.</p>
-      <p><sub>TYPESCRIPT · BUN · REACT · CLOUDFLARE</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://cafeblr.com">Cafe BLR</a> <sup><a href="https://github.com/amalshaji/cafeblr">GitHub ↗</a></sup></h3>
-      <p>A map-friendly directory of Bengaluru cafes discovered through posts people actually loved—the original recommendation stays attached as the receipt.</p>
-      <p><sub>ASTRO · TYPESCRIPT · CLOUDFLARE · OPEN DATA</sub></p>
+      <h3><a href="https://portr.dev">Portr</a> <sup><a href="https://github.com/amalshaji/portr">GitHub ↗</a></sup></h3>
+      <p>An open-source tunnel for teams. Expose local HTTP, TCP, and WebSocket services through SSH, then inspect and replay traffic locally.</p>
+      <p><sub>GO · REACT · SSH · SELF-HOSTED</sub></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://dbcooper.amal.sh">DBcooper</a> <sup><a href="https://github.com/amalshaji/dbcooper">GitHub ↗</a></sup></h3>
@@ -45,9 +33,21 @@ Currently building from Bengaluru, India.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://portr.dev">Portr</a> <sup><a href="https://github.com/amalshaji/portr">GitHub ↗</a></sup></h3>
-      <p>An open-source tunnel for teams. Expose local HTTP, TCP, and WebSocket services through SSH, then inspect and replay traffic locally.</p>
-      <p><sub>GO · REACT · SSH · SELF-HOSTED</sub></p>
+      <h3><a href="https://cafeblr.com">Cafe BLR</a> <sup><a href="https://github.com/amalshaji/cafeblr">GitHub ↗</a></sup></h3>
+      <p>A map-friendly directory of Bengaluru cafes discovered through posts people actually loved—the original recommendation stays attached as the receipt.</p>
+      <p><sub>ASTRO · TYPESCRIPT · CLOUDFLARE · OPEN DATA</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/amalshaji/opendrop">OpenDrop</a></h3>
+      <p>Publish versioned static previews, share them privately or publicly, and collect point comments and text highlights in context.</p>
+      <p><sub>TYPESCRIPT · BUN · REACT · CLOUDFLARE</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/amalshaji/dictator">Dictator</a></h3>
+      <p>A native macOS dictation app. Hold <code>Fn</code>, speak, and send polished text back to the app you were using—with on-device Apple Speech or your own cloud provider.</p>
+      <p><sub>SWIFT · SWIFTUI · APPLE SPEECH · MACOS</sub></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://agent-thread.com">Agent Thread</a> <sup><a href="https://github.com/amalshaji/agent-thread">GitHub ↗</a></sup></h3>
@@ -70,22 +70,6 @@ Currently building from Bengaluru, India.
 | 10 Jul | [`portr`](https://github.com/amalshaji/portr) | [`Add reserved subdomain reservations`](https://github.com/amalshaji/portr/commit/9e93079a553d6c6dd587f2aa82d16f7f0552ad0c) |
 
 <p align="right"><a href="https://github.com/amalshaji?tab=overview&from=2026-07-01&to=2026-07-31">See the full contribution graph →</a></p>
-
-## Around the workshop
-
-- [`agent-observability`](https://github.com/amalshaji/agent-observability) — session reports, evals, and performance views for voice agents.
-- [`dbindex`](https://github.com/amalshaji/dbindex) — a browser-based database explorer built with Bun, Hono, and React.
-- [`baby-cursor`](https://github.com/amalshaji/baby-cursor) — a small Cursor-inspired code editor that runs in the browser.
-
-My current working set is **Swift / SwiftUI**, **TypeScript / React**, **Go**, **Rust / Tauri**, **Python / FastAPI**, **Bun / Cloudflare**, and **Postgres / Redis**. The tool changes; the goal is usually the same—make the complicated part feel obvious.
-
-## Notes from the build
-
-I write when a project teaches me something worth keeping:
-
-- [Portr: an open-source, self-hosted tunnel designed for teams](https://dev.to/amal/portr-open-source-self-hosted-tunnel-designed-for-teams-hjb)
-- [Docker best practices for Python developers](https://testdriven.io/blog/docker-best-practices/)
-- [Dockerizing FastAPI with Postgres, Uvicorn, and Traefik](https://testdriven.io/blog/fastapi-docker-traefik/)
 
 ## Say hello
 
